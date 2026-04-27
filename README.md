@@ -1,4 +1,5 @@
 # NOTICE: THIS PROJECT HAS MOVED TO [CODEBERG][1]
+# Last updated at codeberg on 2025-Jul-15
 
 # thumby
 
@@ -7,6 +8,18 @@ A bootable thumbdrive image for rescue and maintenance.
 * This is a proof of concept for PLL, s6-smj, and mdevd-as-an-admin.
 
 * This is a general x86-64 kernel and root filesystem.
+
+* Editors: e3 emacs hexedit hyx
+
+* Net: bing bmon bwm-ng bwping iftop iptraf-ng macchanger mtr nast netcat traceroute trafshow dnscrypt-proxy ntftables mosh ntp ssh rsync telnet wget whois rtorrent iwd ip lynx
+
+* System: earlyoom hdparm sdparm lspci lsusb lsblk smartmon cryptsetup inotify gpm
+
+* Filesystems: f2fs ext4 xfs vfat ntfs
+
+* Mail: mutt
+
+* Misc: bash fastfetch reptyr strace execline nasm dialog ascii-invaders
 
 ## PLL
 
